@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1ftLewoNF7H80TFSF2N1zLIk4okSz3AKv/view?usp=shari
 ### contoh instalasi suricata,loki,promtail,grafana
 https://drive.google.com/file/d/1Vj4EQ4Bl6JrlE8fZvo6m6Icp4rtdkHK1/view?usp=sharing
 ## Cara Akses Via tunnel
-## buat yg akses via pptp gabisa bisa lewat l2tp-pre-shared-key
+## buat yg akses via pptp gabisa,  bisa dicoba lewat l2tp-pre-shared-key
 > pre shared key = 1
 <img width="400" height="765" alt="image" src="https://github.com/user-attachments/assets/93ef7751-4f1b-4d1c-a00d-b8a1a7f75c0d" />
 
