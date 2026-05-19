@@ -112,7 +112,7 @@ sudo named-checkconf
 
 2. tambahkan local nameserver di ubuntu /etc/resolv.conf: 
 ```bash
-nano /etc/resolv.conf
+sudo nano /etc/resolv.conf
 ```
 **rubah 172.0.0.53 menjadi 172.0.0.1 dan tambahkan 1.1.1.1**
 ```
