@@ -114,7 +114,7 @@ sudo named-checkconf
 ```bash
 nano /etc/resolv.conf
 ```
-**rubah 172.0.0.53 menjadi 172.0.0.53 dan tambahkan 1.1.1.1**
+**rubah 172.0.0.53 menjadi 172.0.0.51 dan tambahkan 1.1.1.1**
 ```
 nameserver 172.0.0.1
 nameserver 1.1.1.1
